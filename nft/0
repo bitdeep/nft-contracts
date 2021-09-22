@@ -1,0 +1,31 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmRLmcg1nXfSSYvqv7itvr2XKyPZEBqzYv13UPFTMLwf1V/0.png",
+    "name": "Hermes Hero #0",
+    "description": "The Hermes Heroes are descending upon the Polygon Network! HermesDefi´s official collection of 3125 randomly generated NFTs is here! In order to celebrate the launch of our own Marketplace, we decided to create our own collection of NFTs, or NFG( Non-fungible Gods) as we preferred to call them. Get some IRIS, collect them and trade your NFGs across the heavens!",
+    "attributes": [
+        {
+            "trait_type": "Body",
+            "value": "Fit"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Fit"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Beige"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Fit"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Fit"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Fit"
+        }
+    ]
+}
