@@ -29,7 +29,7 @@ contract HermesHeroes is Context, ERC165, IERC721, IERC721Metadata, IERC721Enume
     using EnumerableMap for EnumerableMap.UintToAddressMap;
     using Strings for uint256;
 
-    string public _baseURI = "https://gateway.pinata.cloud/ipfs/QmRLmcg1nXfSSYvqv7itvr2XKyPZEBqzYv13UPFTMLwf1V/";
+    string public _baseURI = "https://raw.githubusercontent.com/Hermes-defi/nft-contracts/main/nft/";
     uint public maxTokensPerTransaction = 10;
     uint256 public tokenPrice = 150000000000000000000; //150 IRIS
     uint256 public nftsNumber = 7;
