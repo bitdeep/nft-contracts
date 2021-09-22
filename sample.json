@@ -1,0 +1,35 @@
+{
+  "image": "ipfs://QmUaJ6YSG9hzZXFLszKRfeWohXxz2F5r5QbpkRWYuJCKjE/5752.png",
+  "name": "5752",
+  "description": "Sad Frogs District. Genome: G5752",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Hazardous Yellow"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Interstellar Frog"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Billionaire Suit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "YIKERS Eyes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fiery Mohawk"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Heart Shaped Shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}
