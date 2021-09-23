@@ -3382,8 +3382,8 @@ contract HermesHeroes is Context, ERC165, IERC721, IERC721Metadata, IERC721Enume
     string public _baseURI = "https://raw.githubusercontent.com/Hermes-defi/nft-contracts/main/nft/";
     uint public maxTokensPerTransaction = 10;
     uint256 public tokenPrice = 150000000000000000000; //150 IRIS
-    uint256 public nftsNumber = 3120;
-    uint256 public nftsPublicNumber = 3125;
+    uint256 public nftsNumber = 3125;
+    uint256 public nftsPublicNumber = 3120;
     IERC20 public token;
     Counters.Counter private _tokenIdCounter;
     address public treasure;
